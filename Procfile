@@ -1,1 +1,1 @@
-web: java -jar target/demo0611-1.0-SNAPSHOT.jar
+web: java -jar target/demo0611-1.0-SNAP.jar
